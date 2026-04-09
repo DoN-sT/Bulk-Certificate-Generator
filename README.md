@@ -36,8 +36,8 @@ pip --version
 
 ```bash
 # Option A — git clone
-git clone https://github.com/yourname/certificate_generator.git
-cd certificate_generator
+git clone https://github.com/DoN-sT/Bulk-Certificate-Generator.git
+cd BulkCertificateGenerator
 
 # Option B — download ZIP, extract, then:
 cd certificate_generator
