@@ -9,7 +9,7 @@ Features:
   • Multiprocessing pool for parallel batch generation (CPU-bound work).
   • In-memory buffers: no intermediate files written to disk.
   • Progress reporting via a shared multiprocessing.Value counter.
-
+    *simple to use and implement 
 Public API
 ──────────
     generate_single(record, template_img, layout, fmt) → bytes
